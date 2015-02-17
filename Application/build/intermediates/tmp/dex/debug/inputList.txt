@@ -1,0 +1,7 @@
+/Users/eggert/Documents/Nam/15_1/Lokaverkefni/samples/CardEmulation/Application/build/intermediates/classes/debug
+/Users/eggert/Documents/Nam/15_1/Lokaverkefni/samples/CardEmulation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-819584302b0967f0738629a1f3ec8211931eea62.jar
+/Users/eggert/Documents/Nam/15_1/Lokaverkefni/samples/CardEmulation/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-d87c2e0c4548f482b0cabbc7937528b0b81652c3.jar
+/Users/eggert/Documents/Nam/15_1/Lokaverkefni/samples/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-f38e9e8c4395034e777f1f4c6d6c4dec0ae708f1.jar
+/Users/eggert/Documents/Nam/15_1/Lokaverkefni/samples/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-9ab2470c1355115299139f8baaaa653657438c4f.jar
+/Users/eggert/Documents/Nam/15_1/Lokaverkefni/samples/CardEmulation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-1d3a949350c4285527b384cf5d1f9285be91a1d7.jar
+/Users/eggert/Documents/Nam/15_1/Lokaverkefni/samples/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-093dacd5700cfb3d3a57d94485b20f0d9d0a04ef.jar
